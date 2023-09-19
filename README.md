@@ -15,7 +15,7 @@
 
 ## Library & Frameworks
 - Next JS
-- tailwind
+- Tailwind
 - Font Awesome
 - Flowbite React
 
