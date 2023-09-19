@@ -160,7 +160,7 @@ export default function Cart() {
                 Total <span>({cart.length} iteams): </span>
                 <span
                   className="text-sm md:text-lg"
-                  style={{ color: "var(--color-primary)", fontWeight: "900" }}
+                  style={{ color: "var(--color-primary)", fontWeight: "700" }}
                 >
                   ${new Intl.NumberFormat().format(totalPrice.toFixed(2))}
                 </span>
