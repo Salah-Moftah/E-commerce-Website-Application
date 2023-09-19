@@ -5,7 +5,7 @@ import { createContext, useState, useEffect } from "react";
 export const ThemeContextMode = createContext();
 
 export const ThemeProviderMode = ({ children }) => {
-  const [mode, setMode] = useState();
+  const [mode, setMode] = useState("light");
 
   const toggle = () => {
     if (mode === "dark") {
