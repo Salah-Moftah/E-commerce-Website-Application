@@ -1,0 +1,31 @@
+.imageContainer {
+  position: relative;
+  height: 500px;
+}
+@media (max-width: 767px) {
+  .imageContainer {
+    height: 350px;
+  }
+}
+.title {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.image {
+  border-radius: 15px;
+}
+.auther {
+  position: absolute;
+  background-color: var(--color-primary);
+  color: #111;
+  padding: 5px 10px;
+  bottom: 0;
+  right: 0;
+  border-radius: 0 0 15px 0;
+}
+.text {
+  font-size: 18px;
+  line-height: 26px;
+  columns: 2;
+  text-align: justify;
+}

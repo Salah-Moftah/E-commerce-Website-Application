@@ -1,0 +1,21 @@
+.darkAndLight {
+  border: 2px solid #53c28b;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: fit-content;
+}
+.icon {
+  font-size: 15px;
+}
+.switcher {
+  width: 19px;
+  aspect-ratio: 1/1;
+  background-color: #53c28b;
+  border-radius: 50%;
+  position: absolute;
+  transition: 0.3s;
+  cursor: pointer;
+}
