@@ -3,7 +3,7 @@
 
 <p>An application that essentially acts as an e-commerce website built with Next.js and includes the store, individual products, cart page, and more.</p>
 
-<div><h3>Demo: </h3><a href="https://e-commerce-website-application.vercel.app" target="_blank">https://e-commerce-website-application.vercel.app</a></div>
+<div><h3>Demo: </h3><a href="e-commerce-website-application-git-main-salah-moftah.vercel.app" target="_blank">e-commerce-website-application-git-main-salah-moftah.vercel.app</a></div>
 
 ## features
 - A page that includes different products. You can choose a specific category to search for the product you want
